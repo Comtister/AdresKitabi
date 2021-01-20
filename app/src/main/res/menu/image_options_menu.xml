@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Kameradan Çek" android:id="@+id/action_camera"/>
+    <item android:title="Galeriden Yükle" android:id="@+id/action_gallery"/>
+
+</menu>
